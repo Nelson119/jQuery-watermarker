@@ -1,0 +1,23 @@
+{
+  "name": "jQuery-watermarker",
+  "authors": [
+    "x"
+  ],
+  "description": "watermarker",
+  "main": ["watermarker.js", "watermarker.css"],
+  "keywords": [
+    "watermarker"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.9.1"
+  }
+}
